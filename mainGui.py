@@ -3,7 +3,6 @@ import os
 import json
 import matplotlib.pyplot as plt
 import matplotlib.image as img
-import numpy as np
 from Gui import helpPage, infoGui, aboutPage,outputGui
 from processCode import downLoadCode, RankData
 
